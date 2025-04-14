@@ -1,8 +1,8 @@
-streamlit
-pandas
-langchain-mistralai
-langchain-community
-plotly
-python-dotenv
-mysql-connector-python
-sqlite3
+streamlit==1.30.0
+pandas==2.2.2
+langchain-mistralai==0.0.1
+langchain-community==0.2.6
+plotly==5.22.0
+python-dotenv==1.0.1
+mysql-connector-python==8.3.0
+sqlite3==3.46.0
