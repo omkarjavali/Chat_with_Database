@@ -1,10 +1,12 @@
-streamlit
-pandas
-plotly
-python-dotenv
-langchain
-langchain-community
-langchain-core
-langchain-mistralai
-sqlalchemy
-mysql-connector-python
+streamlit==1.44.1
+pandas==2.2.3
+plotly==6.0.1
+python-dotenv==1.1.0
+sqlalchemy==2.0.40
+mysql-connector-python==9.2.0
+
+# Compatible versions to avoid langchain-core conflicts
+langchain==0.3.23
+langchain-core==0.3.51
+langchain-community==0.3.21
+langchain-mistralai==0.2.10
