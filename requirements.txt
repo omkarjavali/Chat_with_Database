@@ -1,0 +1,8 @@
+streamlit
+pandas
+langchain-mistralai
+langchain-community
+plotly
+python-dotenv
+mysql-connector-python
+sqlite3
