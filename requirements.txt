@@ -8,4 +8,3 @@ langchain-core
 langchain-mistralai
 sqlalchemy
 mysql-connector-python
-sqlite3  # Note: This is part of Python's standard library; no need to install separately
